@@ -16,6 +16,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://ishitrastogi.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-www.ishitrastogi.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://notishi28.dev"><img alt="Website" src="https://img.shields.io/badge/Website-www.notishi28.dev-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:ishitrastogi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ishitrastogi@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
