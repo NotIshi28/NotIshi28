@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying in 9th Grade at Amity International School Gurgaon Sector 46.
+- 🎓 &nbsp; Studying in 10th Grade at Amity International School Gurgaon Sector 46.
 - 🌱 &nbsp; Learning more about Artificial Intelligence.
 
 <a href="https://github.com/NotIshi28">
