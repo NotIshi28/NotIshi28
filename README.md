@@ -6,11 +6,6 @@
 - 🎓 &nbsp; Studying in 10th Grade at Amity International School Gurgaon Sector 46.
 - 🌱 &nbsp; Learning more about Artificial Intelligence.
 
-<a href="https://github.com/NotIshi28">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotIshi28&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotIshi28&theme=buefy&layout=compact" />
-</a>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
